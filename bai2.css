@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    font-size: 16px;
+    color: rgb(35,35,35);
+    margin: 0;
+    padding: 0;
+}
+.a{
+    display: flex;
+    text-align: center;
+    background-color: #f2f1f5;
+    padding: 20px;
+}
+.a div{
+    margin: 20px;
+    background-color: #ffffff;
+}
+.b{
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 20px;
+}
+.c{
+    font-size: 20px;
+    color: #bc2229;
+}
